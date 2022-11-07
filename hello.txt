@@ -8,3 +8,4 @@ hello git master test
 hello git hot-fix test
 111222333
 测试ssh免密登录
+测试 ssh免密登录 push
